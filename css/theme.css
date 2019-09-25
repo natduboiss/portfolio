@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #b3b6ad;
+  --color-secondary-light: #fff;
+  --color-secondary-dark: #000;
+  --color-accent: #f1bd8e;
+  --color-neutral-light: #c6beb3;
+  --color-neutral-dark: #c6a792;
+
+  --font-primary: "Montserrat", sans-serif;
+  --font-secondary: "Playfair Display", serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
