@@ -6,9 +6,9 @@
 
 Natacha Dubois, Graphic Designer
 
-Hi, I’m Natacha Dubois. I’m a graphic designer in the Ottawa region. I’m in my second year of the three year  graphic design program at Algonquin College. I’m also bilingual.
+Hi, I’m Natacha Dubois. I’m a graphic designer in the Ottawa region. I’m in my last year of the graphic design program at Algonquin College. I’m also bilingual.
 
-I’ve always had a passion for illustrations. Over two years of being in this program I discovered a passion in web design. I have a strong passion in problem solving but making things pretty comes to a close second. As a designer I take on every project by firstly analyzing the goal, then create an innovative and meaningful solution for everyone.
+I’ve always had a passion for illustrations growing up. However, over two years of being in this program I discovered a passion in web design and motion graphics. I have a strong passion in problem solving, this is what feeds my love for web and motion. As a designer I take on every project by firstly analyzing the goal, then create an innovative and meaningful solution for everyone.
 
 - **[dubo0063@algonquinlive.com](mailto:dubo0063@algonquinlive.com)**
 - [Behance](https://behance.net/dubo006358d3)
