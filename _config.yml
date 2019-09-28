@@ -1,3 +1,17 @@
 permalink: pretty
-
 theme: jekyll_patternbot
+patternbot:
+  title: "Natacha Dubois"
+  description: |
+    My Graphic Design portfolio, where I showcase all of my creative work that I've done.
+  font_url: "https://fonts.googleapis.com/css?family=Montserrat:400,700|Playfair+Display:400,400i&display=swap"
+  colors:
+    background: "--color-secondary-light"
+    accent: "--color-accent"
+    patterns:
+      brand.logos: "--color-primary"
+  rationales:
+    typefaces.primary: |
+      Montserrat was selected because it is simple and clear. It is to be used for a headings and buttons.
+    typefaces.secondary: |
+      Playfair Display was selected because it's a very classy and unique for a serif font. It is to be used only for the body copy.
