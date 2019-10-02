@@ -1,0 +1,13 @@
+title: "Sections"
+descripton: |
+  Sections are made for all the big pieces of content on the website.
+
+patterns:
+  about-me:
+    title: "About Me"
+    description: |
+      This is the about me section, which will be on the homepage.
+  section-banner:
+    title: "Section Banner"
+    descripton: |
+      This will be a section banner that can be inserted at the bottom of every page.

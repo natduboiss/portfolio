@@ -1,0 +1,9 @@
+title: "Navigation"
+descripton: |
+  Navigations are to switch through different pages in the website.
+
+patterns:
+  mini-nav:
+    title: "Mini Navigation"
+    descripton: |
+      This navigation should only be used as a side navigation, below the top banner to switch between different projects.
