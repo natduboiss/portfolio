@@ -1,0 +1,11 @@
+.about-me-img {
+  width: 80%;
+}
+
+h3 {
+  color: var(--color-accent);
+}
+
+p {
+  font-family: var(--font-secondary);
+}

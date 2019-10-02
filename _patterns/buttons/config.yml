@@ -1,0 +1,16 @@
+title: "Buttons"
+descripton: |
+  Buttons should be used when an obvious action is required.
+
+patterns:
+  basic:
+    fields:
+      - name: text
+        type: string
+        example: "Web"
+      - name: url
+        type: url
+        exmaple: "/web/"
+    title: "Basic"
+    descripton: |
+      This is the basic button, it's the only button that is used throughout the whole website. It's to be used to go in a direction.
