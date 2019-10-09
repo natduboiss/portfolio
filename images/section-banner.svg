@@ -1,1 +1,22 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800"><defs><style>.cls-1{fill:#c6beb3;}.cls-2{font-size:100px;fill:#fff;font-family:AdreenaScriptDemo-Regular, Adreena Script Demo;}.cls-3{letter-spacing:0.01em;}.cls-4{letter-spacing:0.01em;}</style></defs><title>section-banner</title><rect class="cls-1" x="-17.74" y="-26.22" width="1957.66" height="859.32"/><text class="cls-2" transform="translate(544.1 339.39)">Let’s w<tspan class="cls-3" x="318.6" y="0">o</tspan><tspan x="356.5" y="0">rk togeth</tspan><tspan class="cls-4" x="751.19" y="0">e</tspan><tspan x="792.79" y="0">r</tspan></text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 800" style="enable-background:new 0 0 1920 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C6BEB3;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'AdreenaScriptDemo-Regular';}
+	.st3{font-size:100px;}
+	.st4{letter-spacing:1;}
+</style>
+<g id="Layer_2">
+	<rect x="-12.9" y="-15" class="st0" width="1944.8" height="827.9"/>
+</g>
+<g id="Layer_1">
+	<text transform="matrix(1 0 0 1 538.0999 307.39)" class="st1 st2 st3">Let’s w</text>
+	<text transform="matrix(1 0 0 1 856.7 307.39)" class="st1 st2 st3 st4">o</text>
+	<text transform="matrix(1 0 0 1 894.5999 307.39)" class="st1 st2 st3">rk togeth</text>
+	<text transform="matrix(1 0 0 1 1289.2899 307.39)" class="st1 st2 st3 st4">e</text>
+	<text transform="matrix(1 0 0 1 1330.8898 307.39)" class="st1 st2 st3">r</text>
+</g>
+</svg>

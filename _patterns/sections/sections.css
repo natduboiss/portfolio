@@ -10,16 +10,6 @@ p {
   font-family: var(--font-secondary);
 }
 
-.section-banner {
-  position: absolute;
-  width: 100%;
-}
-
-.button {
-  position: relative;
-  top: -12em;
-}
-
 .nav-container {
   display: inline-block;
 }

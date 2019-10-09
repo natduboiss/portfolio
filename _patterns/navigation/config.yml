@@ -7,3 +7,28 @@ patterns:
     title: "Mini Navigation"
     descripton: |
       This navigation should only be used as a side navigation, below the top banner to switch between different projects.
+
+patterns:
+  mini-nav:
+    fields:
+      - name: text
+        type: string
+        example: "Annual Report"
+      - name: url
+        type: url
+        exmaple: "/web/"
+      - name: text
+        type: string
+        example: "Infographic"
+      - name: url
+        type: url
+        exmaple: "/web/"
+      - name: text
+        type: string
+        example: "Logos"
+      - name: url
+        type: url
+        exmaple: "/web/"
+    title: "Mini Navigation"
+    descripton: |
+      This navigation is to be used in one of the 3 main pages of the website(web, print and motion) to switch through the different projects on those pages.

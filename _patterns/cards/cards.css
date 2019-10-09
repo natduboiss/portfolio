@@ -1,8 +1,13 @@
 .img-flex {
-  width: 40%;
+  width: 80%;
 }
 
-.relative {
-  top: -2em;
-  left: 3.10em;
+.card-containers {
+  position: relative;
+}
+
+.button {
+  position: absolute;
+  top: 15em;
+  left: 6em;
 }
