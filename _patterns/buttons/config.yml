@@ -14,6 +14,17 @@ patterns:
     title: "Basic"
     descripton: |
       This is the basic button, it's the only button that is used throughout the whole website. It's to be used to go in a direction.
+  ghost:
+    fields:
+      - name: text
+        type: string
+        example: "Web"
+      - name: url
+        type: url
+        exmaple: "/web/"
+    title: "Ghost"
+    descripton: |
+      This is the basic button, it's the only button that is used throughout the whole website. It's to be used to go in a direction.
   home-button:
     title: "Home Button"
     descripton: |

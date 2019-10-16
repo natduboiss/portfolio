@@ -1,12 +1,28 @@
-.btn {
+.basic-btn {
   background-color: var(--color-neutral-dark);
   border-color: var(--color-neutral-dark);
   color: var(--color-secondary-light);
+  border-radius: 0;
+  text-decoration: none;
 }
 
 .btn:hover {
   background-color: var(--color-accent);
   border-color: var(--color-accent);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  border-radius: 0;
+  text-decoration: none;
+}
+
+.btn-ghost:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-secondary-light);
 }
 
 .logo {

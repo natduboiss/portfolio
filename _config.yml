@@ -4,6 +4,11 @@ patternbot:
   title: "Natacha Dubois"
   description: |
     My Graphic Design portfolio, where I showcase all of my creative work that I've done.
+
+patternbot:
+  layouts:
+    default: |
+      The default layout should be used for every page, it includes the website's primary header and footer.
   font_url: "https://fonts.googleapis.com/css?family=Montserrat:400,700|Playfair+Display:400,400i&display=swap"
   colors:
     background: "--color-secondary-light"
