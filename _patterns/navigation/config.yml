@@ -3,32 +3,15 @@ descripton: |
   Navigations are to switch through different pages in the website.
 
 patterns:
-  mini-nav:
-    title: "Mini Navigation"
+  web-nav:
+    title: "Web Navigation"
     descripton: |
-      This navigation should only be used as a side navigation, below the top banner to switch between different projects.
-
-patterns:
-  mini-nav:
-    fields:
-      - name: text
-        type: string
-        example: "Annual Report"
-      - name: url
-        type: url
-        exmaple: "/web/"
-      - name: text
-        type: string
-        example: "Infographic"
-      - name: url
-        type: url
-        exmaple: "/web/"
-      - name: text
-        type: string
-        example: "Logos"
-      - name: url
-        type: url
-        exmaple: "/web/"
-    title: "Mini Navigation"
+      This navigation should only be used as a side navigation to show different projects on the same page. This will be used on the web page.
+  print-nav:
+    title: "Print Navigation"
     descripton: |
-      This navigation is to be used in one of the 3 main pages of the website(web, print and motion) to switch through the different projects on those pages.
+      This navigation should only be used as a side navigation to show different projects on the same page. This will be used on the print page.
+  motion-nav:
+    title: "Motion Navigation"
+    descripton: |
+      This navigation should only be used as a side navigation to show different projects on the same page. This will be used on the motion page.
