@@ -13,3 +13,14 @@ p {
 .nav-container {
   display: inline-block;
 }
+
+.section-banner{
+  position: relative;
+}
+
+.section-banner h4 {
+  position: absolute;
+  top: 2.5em;
+  left: 6.5em;
+  color: var(--color-secondary-light);
+}

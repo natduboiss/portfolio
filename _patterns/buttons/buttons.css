@@ -32,3 +32,18 @@
 .video {
   width: 50%;
 }
+
+.long-btn {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-secondary-light);
+  border-radius: 0;
+  text-decoration: none;
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
+.long-btn:hover {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+}

@@ -29,3 +29,14 @@ patterns:
     title: "Home Button"
     descripton: |
       This button will be placed on top of all the top banners to lead the users back to the homepage.
+  long-btn:
+    fields:
+      - name: text
+        type: string
+        example: "Web"
+      - name: url
+        type: url
+        exmaple: "/web/"
+    title: "Long button"
+    descripton: |
+      This is the basic button, it's the only button that is used throughout the whole website. It's to be used to go in a direction.
