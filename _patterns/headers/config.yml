@@ -1,0 +1,21 @@
+title: "Headers"
+description: |
+  Headers are used at the top of every page. A large banner to represent which page you're on.
+
+patterns:
+  home-banner:
+    title: "Home Banner"
+    description: |
+      The home banner will only be used as the top banner of the homepage.
+  web-banner:
+    title: "Web Banner"
+    description: |
+      The web banner will only be used as the top banner of the web page of the website.
+  print-banner:
+    title: "Print Banner"
+    description: |
+      The print banner will only be used as the top banner of the print page of the website.
+  motion-banner:
+    title: "Motion Banner"
+    description: |
+      The motion banner will only be used as the top banner of the motion page of the website.

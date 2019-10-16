@@ -1,0 +1,9 @@
+title: "Footer"
+description: |
+  The footer is used at the very bottom of every page.
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      The footer is used at the very bottom of every page. This will have the links to all my social medias.

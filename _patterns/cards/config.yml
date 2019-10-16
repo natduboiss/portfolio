@@ -1,25 +1,9 @@
 title: "Cards"
 description: |
-  Cards are to be used a either the mav navigation on the homepage or the banners on the top of the page.
+  Cards are to be used a either the mav navigation on the homepage.
 
 patterns:
   nav-card:
     title: "Navigation Card"
     descripton: |
       The nav card will be used as the main navigation to go in between pages. It will be on every single page.
-  home-banner:
-    title: "Home Banner"
-    description: |
-      The home banner will only be used as the top banner of the homepage.
-  web-banner:
-    title: "Web Banner"
-    description: |
-      The web banner will only be used as the top banner of the web page of the website.
-  print-banner:
-    title: "Print Banner"
-    description: |
-      The print banner will only be used as the top banner of the print page of the website.
-  motion-banner:
-    title: "Motion Banner"
-    description: |
-      The motion banner will only be used as the top banner of the motion page of the website.
