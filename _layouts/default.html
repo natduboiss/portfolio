@@ -10,7 +10,12 @@
 </head>
 <body>
 
-{% pattern headers/home-banner %}
+<div class="relative">
+  {% pattern headers/home-banner %}
+  <div class="absolute">
+    {% pattern buttons/home-button %}
+  </div>
+</div>
 
 <div class="text-center">
   <h2>Portfolio</h2>
