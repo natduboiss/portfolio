@@ -1,9 +1,6 @@
 .about-me-img {
-  width: 80%;
-}
-
-h3 {
-  color: var(--color-accent);
+  width: 64%;
+  margin-left: 5em;
 }
 
 p {

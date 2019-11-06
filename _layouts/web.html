@@ -10,56 +10,9 @@
 </head>
 <body>
 
-<div class="relative">
   {% pattern headers/home-banner %}
-  <div class="absolute">
-    {% pattern buttons/home-button %}
-  </div>
-</div>
-{% pattern navigation/web-nav %}
+  {{content}}
+  {% pattern footer/footer %}
 
-<h2>Ottawa Dog Rescue</h2>
-<div class="grid">
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <h4>Goal</h4>
-    <p>Completely re-design an animal rescue website that I found online that’s not currently designed very well.</p>
-  </div>
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <h4>Insight</h4>
-    <p>My goal was for the website to be easy for the users to follow. I wanted to keep it very simple but still carry the information that is necessary without feeling overwhelmed.</p>
-  </div>
-</div>
-
-<div class="grid">
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <h6>Step 1: Research</h6>
-    <p>The first step was to research the brand. I went on the website to find how it looks like and what I wanted to change. The website was already quite simple but I wanted to further enhance that but still make the website appealing.</p>
-  </div>
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <img src="/images/oldsite.jpg" alt="old website">
-  </div>
-</div>
-
-<div class="grid">
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <img src="/images/oldsite.jpg" alt="old website">
-  </div>
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <h6>Step 2: Planning</h6>
-    <p>After I was done doing the research I moved on to moodboards. Moodboards helped me visualize the website I was envisioning. Helping find the right colour palettes and the right fonts. Along with which components I wanted to add. When this was all planned I moved to doing wireframes. This helped over see the layout of the website I wanted to create.</p>
-  </div>
-</div>
-
-<div class="grid">
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <h6>Step 3: Final Result</h6>
-    <p>After the wireframes were all planned out, I moved on to Atom to start coding.</p>
-  </div>
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    <img src="/images/oldsite.jpg" alt="old website">
-  </div>
-</div>
-
-{% pattern footer/footer %}
 </body>
 </html>
