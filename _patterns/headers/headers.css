@@ -1,0 +1,10 @@
+.home-button {
+  position: absolute;
+  width: 50%;
+  top: 1.5em;
+  left: 1.5em;
+}
+
+.banner-img {
+  position: relative;
+}
