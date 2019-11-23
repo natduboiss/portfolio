@@ -6,3 +6,15 @@
 {% include_relative type.css %}
 {% include_relative theme.css %}
 {% pattern_css %}
+
+
+@media only screen and (min-width: 60em) {
+
+  .step2 {
+    padding-top: 0;
+  }
+
+  .insight {
+    padding-top: 0;
+  }
+}
