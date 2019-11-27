@@ -1,9 +1,14 @@
-.subnav-content a {
+li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+nav ul li a {
   margin-right: 2em;
   text-decoration: none;
   color: var(--color-secondary-dark);
 }
 
-.subnav-content a:hover {
+nav ul li a:hover {
   border-bottom: 4px solid var(--color-neutral-dark);
 }
