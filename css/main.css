@@ -7,6 +7,9 @@
 {% include_relative theme.css %}
 {% pattern_css %}
 
+.error-img {
+  overflow: hidden;
+}
 
 @media only screen and (min-width: 60em) {
 
