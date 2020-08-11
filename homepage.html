@@ -25,15 +25,15 @@
     </li>
   </ul>
 
-  <section>
+  <section class="main-section">
     ::before
-    <div>
-      <div>
-        <div>
+    <div class="main-content">
+      <div class="grid grid-middle pad-t-4 gutter pad-b">
+        <div class="unit xs-1-2 s-1-2 m-1-2 l-1-4">
           <a class="no-decoration" href="/index">Natacha Dubois</a>
         </div>
-        <nav>
-          <ul>
+        <nav class="unit xs-1-2 s-1-2 m-1-2 l-1-4 main-navigation">
+          <ul class="list-group-inline push-0 text-right">
             ::before
             <li>
               <a href="#">Work</a>
@@ -43,6 +43,19 @@
             </li>
           </ul>
         </nav>
+      </div>
+      <div class="grid grid-middle gutter pad-b">
+        <div class="unit xs-1 s-1 m-1-2 l-1-2">
+          <h2 class="push-1-2 zetta">Natacha<br>Dubois</br></h2>
+          <h3 class="giga push-2">Graphic Designer</h3>
+        </div>
+        <div class="xs-1 s-1 m-1-2 l-1-2">
+          <img class="img-flex gutter" src="/images/illus-4.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+
 
   {% pattern headers/home-banner %}
   {{content}}
