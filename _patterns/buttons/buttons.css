@@ -59,7 +59,11 @@
   padding: 1.5em 2.5em 1.25em;
   text-transform: uppercase;
   letter-spacing: 3px;
-  background: linear-gradient(to right, #fff 50%, var(--color-primary) 50%);
+}
+
+.small-btn:hover {
+  color: var(--color-secondary-light);
+  background: linear-gradient(to right, #fff 50%, var(--color-secondary-dark)) 50%);
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
