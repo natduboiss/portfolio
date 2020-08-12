@@ -26,3 +26,13 @@
 .text-colour {
   color: var(--color-secondary-light);
 }
+
+.web-bg {
+  background-color: var(--color-accent);
+}
+
+.project-card {
+  width: 100%;
+  transition: all .2s ease-in-out;
+  margin-bottom: 1em;
+}
