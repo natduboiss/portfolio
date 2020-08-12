@@ -70,10 +70,9 @@ section {
 }
 
 .next-project {
-  background: linear-gradient (to right, var(--color-neutral-light) 50%, var(--color-accent) 50%);
-  background-size: 200% 100%;
-  background-position: left bottom;
-  transition: all .6s ease-in-out;
+  text-decoration: none;
+  color: var(--color-secondary-dark);
+  background-color: var(--color-accent);
 }
 
 .green-project {
