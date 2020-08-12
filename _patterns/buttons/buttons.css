@@ -44,12 +44,12 @@
   text-transform: uppercase;
   letter-spacing: 3px;
   background: -webkit-linear-gradient(0deg,transparent 50%, #27e8a7 50%);
-  background-size: 400px 80px;
+  background-size: 200% 100%;
   transition: 0.8s;
 }
 
 .long-btn:hover {
-  background-position: 200% 100%;
+  background-position: 200px 0;
 }
 
 .small-btn {
