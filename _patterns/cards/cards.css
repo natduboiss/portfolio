@@ -37,3 +37,18 @@
   margin-bottom: 1em;
   background-color: #bed7e8;
 }
+
+.project-title {
+  text-decoration: none;
+  color: #393939;
+}
+
+.web-text {
+  text-decoration: none;
+  color: #393939;
+}
+
+.cs-text {
+  text-decoration: none;
+  color: #393939;
+}
