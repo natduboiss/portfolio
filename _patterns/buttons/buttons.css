@@ -64,3 +64,18 @@
   background-position: left bottom;
   transition: all .3s ease-in-out;
 }
+
+section {
+  display: block;
+}
+
+.next-project {
+  background: linear-gradient (to right, var(--color-neutral-light) 50%, var(--color-accent) 50%);
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .6s ease-in-out;
+}
+
+.green-project {
+  background-color: var(--color-neutral-dark);
+}
