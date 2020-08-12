@@ -38,6 +38,10 @@
   background-color: #bed7e8;
 }
 
+.project-card:hover {
+  transform: scale(1);
+}
+
 .project-title {
   text-decoration: none;
   color: #393939;
@@ -54,6 +58,7 @@
   text-decoration: none;
   color: #393939;
   font-family: "Cormorant Garamond";
+  text-transform: uppercase;
 }
 
 a {
