@@ -39,7 +39,7 @@
 }
 
 .project-card:hover {
-  transform: scale(1);
+  width: 110%;
 }
 
 .project-title {
@@ -57,7 +57,7 @@
 .cs-text {
   text-decoration: none;
   color: #393939;
-  font-family: "Cormorant Garamond";
+  font-family: "Montserrat";
   text-transform: uppercase;
 }
 
