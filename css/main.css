@@ -32,6 +32,14 @@
   letter-spacing: 3px;
 }
 
+h2 {
+  font-family: "Lora", serif;
+}
+
+p {
+  font-family: "Spartan", sans-serif;
+}
+
 @media only screen and (min-width: 60em) {
 
   .step2 {
