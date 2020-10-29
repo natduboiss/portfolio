@@ -19,6 +19,10 @@
   padding-bottom: 6.5rem;
 }
 
+.my-padding-bottom {
+  padding-bottom: 6.5rem;
+}
+
 .my-max-length {
   margin-left: auto;
   margin-right: auto;
@@ -42,6 +46,10 @@ p {
 
 .navy {
   color: #000080;
+}
+
+.gray {
+  color: #808080;
 }
 
 @media only screen and (min-width: 60em) {
