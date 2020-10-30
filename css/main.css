@@ -62,11 +62,15 @@
 
 .view-more-btn {
   border: 1px solid #2c365a;
+  padding: 3em 0 2em 0;
   color: #2c365a;
   text-decoration: none;
   font-family: "Spartan", sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
+}
+
+.view-more-btn:hover {
   background: linear-gradient(to right, #fff 50%, #2c365a 50%);
   background-size: 200% 100%;
   background-position: left bottom;
