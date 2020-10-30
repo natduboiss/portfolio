@@ -5,3 +5,20 @@
 .icons {
   width: 15%;
 }
+
+.social-media {
+  background-color: #f7f7f7;
+}
+
+.social-media-link {
+  text-decoration: none;
+  font-family: "Spartan", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #2c365a;
+}
+
+.copyright {
+  font-family: "Lora", serif;
+  color: #acacac;
+}
