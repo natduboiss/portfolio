@@ -164,6 +164,11 @@ p {
   background-color: #d0ecff;
 }
 
+.w-80 {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .tags {
   font-family: "Spartan", sans-serif;
   text-transform: uppercase;
