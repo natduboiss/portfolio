@@ -92,6 +92,16 @@ p {
   background-color: #bed7e8;
 }
 
+.nav-links {
+  font-family: "Spartan", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.smiles-background {
+  background-color: #bed7e8;
+}
+
 .tags {
   font-family: "Spartan", sans-serif;
   text-transform: uppercase;
