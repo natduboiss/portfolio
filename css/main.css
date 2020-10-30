@@ -28,7 +28,7 @@
 }
 
 .dog-background {
-  background-color: #bed7e8;
+  background-color: #d0ecff;
   background-position: left bottom;
   transition: all .3s ease-in-out;
 }
@@ -106,7 +106,7 @@ p {
 }
 
 .next-project-smiles {
-  background-color: #bed7e8;
+  background-color: #d0ecff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -130,7 +130,7 @@ p {
 }
 
 .case-study-smiles {
-  background-color: #bed7e8;
+  background-color: #d0ecff;
 }
 
 .tags {
