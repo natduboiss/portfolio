@@ -12,9 +12,20 @@
   margin: 0 auto;
 }
 
+.slide-in {
+  animation-name: slideInFromBottom;
+  animation-duration: .7s;
+  animation-timing-function: ease-in-out;
+}
+
 .project-card {
   width: 100%;
   margin-bottom: 1em;
+  transition: all .2s ease-in-out;
+}
+
+.project-card a {
+  text-decoration: none;
 }
 
 .case-study-text {
@@ -24,6 +35,10 @@
 
 .dog-background {
   background-color: #bed7e8;
+}
+
+.portfolio-title {
+  line-height: 1;
 }
 
 .wrap {
