@@ -90,9 +90,6 @@ p {
 
 .case-study-smiles::before {
   background-color: #bed7e8;
-  border-radius: 0 0 50% 50%;
-  width: 100%;
-  transform: scaleX(1.5);
 }
 
 .tags {
