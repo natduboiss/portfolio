@@ -13,14 +13,9 @@
   font-family: "Lora", serif;
 }
 
-.project-card:hover {
-  transition: all .2 ease-in-out;
-}
-
 .project-card {
   width: 100%;
   margin-bottom: 1em;
-  transition: all .2s ease-in-out;
 }
 
 .project-card a {
@@ -34,7 +29,14 @@
 
 .dog-background {
   background-color: #bed7e8;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
 }
+
+.next-project-smiles:hover {
+  background-color: #d0ecff;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
 
 .portfolio-title {
   line-height: 1;
