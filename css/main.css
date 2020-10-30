@@ -56,10 +56,6 @@ p {
   background-color: #f7f7f7;
 }
 
-.darkgray-background {
-  background-color: #bababa;
-}
-
 @media only screen and (min-width: 60em) {
 
   .step2 {
