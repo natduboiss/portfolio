@@ -10,10 +10,11 @@
 .home-intro {
   max-width: 30em;
   margin: 0 auto;
+  font-family: "Lora", serif;
 }
 
 .project-card:hover {
-  transform: scaleX(.5);
+  transition: all .2 ease-in-out;
 }
 
 .project-card {
@@ -37,6 +38,11 @@
 
 .portfolio-title {
   line-height: 1;
+  font-family: "Lora", serif;
+}
+
+.project-descrip {
+  font-family: "Lora", serif;
 }
 
 .wrap {
