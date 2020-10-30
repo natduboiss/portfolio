@@ -60,6 +60,19 @@
   font-family: "Lora", serif;
 }
 
+.view-more-btn {
+  border: 1px solid #2c365a;
+  color: #2c365a;
+  text-decoration: none;
+  font-family: "Spartan", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: linear-gradient(to right, #fff 50%, #2c365a 50%);
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
 .wrap {
   margin-left: auto;
   margin-right: auto;
