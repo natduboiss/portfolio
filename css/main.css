@@ -132,6 +132,10 @@ p {
   background-color: #f7f7f7;
 }
 
+.gray-shadow {
+  filter: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.18));
+}
+
 .next-project {
   width: 100%;
 }
