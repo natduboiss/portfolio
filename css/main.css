@@ -98,6 +98,22 @@ p {
   letter-spacing: 3px;
 }
 
+.header-sm {
+  font-family: "Spartan", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: .3em;
+}
+
+.banner-links {
+  margin: 0 1rem 0 0;
+}
+
+.home-banner {
+  background-color: #f7f7f7;
+}
+
 @media only screen and (min-width: 60em) {
 
   .step2 {
