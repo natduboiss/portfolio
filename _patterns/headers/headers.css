@@ -8,3 +8,21 @@
 .banner-img {
   position: relative;
 }
+
+.main-background {
+  background-color: #f7f7f7;
+}
+
+.nav-links {
+  font-family: "Spartan", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.my-name {
+  font-family: "Lora", serif;
+}
+
+.smiles-background {
+  background-color: #bed7e8;
+}
