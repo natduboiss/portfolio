@@ -98,6 +98,10 @@ p {
   letter-spacing: 3px;
 }
 
+.my-name {
+  font-family: "Lora", serif;
+}
+
 .smiles-background {
   background-color: #bed7e8;
 }
