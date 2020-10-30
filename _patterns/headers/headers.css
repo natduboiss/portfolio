@@ -26,3 +26,8 @@
 .smiles-background {
   background-color: #bed7e8;
 }
+
+.my-padding-nav {
+  padding-top: 1.5rem;
+  padding-bottom: 3.5rem;
+}
