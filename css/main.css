@@ -56,6 +56,35 @@ p {
   background-color: #f7f7f7;
 }
 
+.next-project {
+  width: 100%;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.next-project-smiles {
+  background: linear-gradient(to right, #bed7e8 50%, #eee2f0 50%);
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .6s ease-in-out;
+}
+
+.ib {
+  display: inline-block;
+}
+
+.next-project-text {
+  transition: all .6s ease-in-out;
+}
+
+.view-next{
+  font-family: "Spartan", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
 @media only screen and (min-width: 60em) {
 
   .step2 {
