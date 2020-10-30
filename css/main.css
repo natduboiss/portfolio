@@ -88,7 +88,7 @@ p {
   letter-spacing: 3px;
 }
 
-.case-study-smiles {
+.case-study-smiles::before {
   background-color: #bed7e8;
   border-radius: 0 0 50% 50%;
   width: 100%;
