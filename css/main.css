@@ -82,6 +82,10 @@ p {
   display: inline-block;
 }
 
+.next-project-text:hover {
+  width: 120%;
+}
+
 .view-next{
   font-family: "Spartan", sans-serif;
   text-transform: uppercase;
