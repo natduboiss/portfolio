@@ -12,10 +12,8 @@
   margin: 0 auto;
 }
 
-.slide-in {
-  animation-name: slideInFromBottom;
-  animation-duration: .7s;
-  animation-timing-function: ease-in-out;
+.project-card:hover {
+  transform: scaleX(1.5);
 }
 
 .project-card {
