@@ -68,14 +68,14 @@ p {
   background-color: #bed7e8;
   background-size: 200% 100%;
   background-position: left bottom;
-  transition: all .6s ease-in-out;
+  transition: all .3s ease-in-out;
 }
 
 .next-project-smiles:hover {
   background-color: #eee2f0;
   background-size: 200% 100%;
   background-position: left bottom;
-  transition: all .6s ease-in-out;
+  transition: all .3s ease-in-out;
 }
 
 .ib {
