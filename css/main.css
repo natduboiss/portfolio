@@ -65,7 +65,14 @@ p {
 }
 
 .next-project-smiles {
-  background: -webkit-linear-gradient(0deg, #bed7e8 50%, #eee2f0 50%);
+  background-color: #bed7e8;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .6s ease-in-out;
+}
+
+.next-project-smiles:hover {
+  background: -webkit-linear-gradient(to right, #bed7e8 50%, #eee2f0 50%);
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .6s ease-in-out;
@@ -73,10 +80,6 @@ p {
 
 .ib {
   display: inline-block;
-}
-
-.next-project-text {
-  transition: all .6s ease-in-out;
 }
 
 .view-next{
