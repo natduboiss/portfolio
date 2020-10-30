@@ -29,14 +29,6 @@
 
 .dog-background {
   background-color: #d0ecff;
-  background-position: left bottom;
-  transition: all .3s ease-in-out;
-}
-
-.dog-background:hover {
-  background-color: #d0ecff;
-  background-position: left bottom;
-  transition: all .3s ease-in-out;
 }
 
 .portfolio-title {
