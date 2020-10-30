@@ -13,7 +13,7 @@
 }
 
 .project-card:hover {
-  transform: scaleX(1.5);
+  transform: scaleX(.5);
 }
 
 .project-card {
