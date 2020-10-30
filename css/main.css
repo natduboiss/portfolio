@@ -13,6 +13,15 @@
   font-family: "Lora", serif;
 }
 
+.project-card {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.project-card:hover {
+  transition: 0;
+}
+
 .project-card a {
   text-decoration: none;
 }
@@ -24,6 +33,10 @@
 
 .dog-background {
   background-color: #d0ecff;
+}
+
+.jumpingbean-background {
+  background-color: #fff3c9;
 }
 
 .portfolio-title {
