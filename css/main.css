@@ -39,6 +39,18 @@
   background-color: #fff3c9;
 }
 
+.infograph-background {
+  background-color: #daf0bc;
+}
+
+.smiles-background {
+  background-color: #d0ecff;
+}
+
+.annualr-background {
+  background-color: #eee2f0;
+}
+
 .portfolio-title {
   line-height: 1;
   font-family: "Lora", serif;
