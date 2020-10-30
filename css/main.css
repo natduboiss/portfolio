@@ -18,6 +18,14 @@
   margin-bottom: 1em;
 }
 
+.relative {
+  position: relative;
+}
+
+.abssolute {
+  position: absolute;
+}
+
 .project-card a {
   text-decoration: none;
 }
