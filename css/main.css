@@ -181,6 +181,20 @@ p {
   transition: all .3s ease-in-out;
 }
 
+.next-project-dog {
+  background-color: #eee2f0;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-dog:hover {
+  background-color: #d0ecff;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
 .ib {
   display: inline-block;
 }
