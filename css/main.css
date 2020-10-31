@@ -137,6 +137,10 @@ p {
   background-color: #f7f7f7;
 }
 
+.ar-background {
+  background-color: #e87b38;
+}
+
 .gray-shadow {
   filter: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.18));
 }
