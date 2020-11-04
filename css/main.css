@@ -154,35 +154,35 @@ p {
 }
 
 .next-project-smiles {
-  background-color: #d0ecff;
-  background-size: 200% 100%;
-  background-position: left bottom;
-  transition: all .3s ease-in-out;
-}
-
-.next-project-smiles:hover {
-  background-color: #eee2f0;
-  background-size: 200% 100%;
-  background-position: left bottom;
-  transition: all .3s ease-in-out;
-}
-
-.next-project-bean {
-  background-color: #d0ecff;
-  background-size: 200% 100%;
-  background-position: left bottom;
-  transition: all .3s ease-in-out;
-}
-
-.next-project-bean:hover {
   background-color: #fff3c9;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
 }
 
-.next-project-dog {
+.next-project-smiles:hover {
+  background-color: #d0ecff;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-ar {
+  background-color: #d0ecff;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-ar:hover {
   background-color: #eee2f0;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-dog {
+  background-color: #d0ecff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -196,7 +196,7 @@ p {
 }
 
 .next-project-infog {
-  background-color: #fff3c9;
+  background-color: #eee2f0;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -204,6 +204,20 @@ p {
 
 .next-project-infog:hover {
   background-color: #daf0bc;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-bean {
+  background-color: #daf0bc;
+  background-size: 200% 100%;
+  background-position: left bottom;
+  transition: all .3s ease-in-out;
+}
+
+.next-project-bean:hover {
+  background-color: #fff3c9;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
