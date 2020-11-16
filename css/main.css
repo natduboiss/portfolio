@@ -36,11 +36,11 @@
 }
 
 .jumpingbean-background {
-  background-color: #7e96b0;
+  background-color: #fff3c9;
 }
 
 .infog-background {
-  background-color: #25354c;
+  background-color: #daf0bc;
 }
 
 .smiles-background {
@@ -48,7 +48,7 @@
 }
 
 .annualr-background {
-  background-color: #7e96b0;
+  background-color: #eee2f0;
 }
 
 .rescues-background {
@@ -65,9 +65,9 @@
 }
 
 .view-more-btn {
-  border: 1px solid #0e151f;
+  border: 1px solid #2c365a;
   padding: 1em 1em 1em 1em;
-  color: #0e151f;
+  color: #2c365a;
   text-decoration: none;
   font-family: "Spartan", sans-serif;
   text-transform: uppercase;
@@ -75,7 +75,7 @@
 }
 
 .view-more-btn:hover {
-  background-color: #0e151f;
+  background-color: #2c365a;
   color: #fff;
 }
 
@@ -122,7 +122,7 @@ p {
 }
 
 .navy {
-  color: #0e151f;
+  color: #2c365a;
 }
 
 .gray {
