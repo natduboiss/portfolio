@@ -123,6 +123,11 @@ nav li {
   padding-bottom: 6.5rem;
 }
 
+.nav-padding {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .my-padding-bottom {
   padding-bottom: 6.5rem;
 }
