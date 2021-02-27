@@ -7,6 +7,10 @@
 {% include_relative theme.css %}
 {% pattern_css %}
 
+body {
+  background-color: #5f758d;
+}
+
 .home-nav {
   background-color: #5f758d;
 }
