@@ -17,6 +17,11 @@
 
 .nav-links {
   color: #fff;
+  font-family: "Spartan", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: .3em;
 }
 
 .home-intro {
