@@ -15,6 +15,10 @@
   background-color: #5f758d;
 }
 
+.main-navigation {
+  text-align: center;
+}
+
 .nav-links {
   color: #fff;
   font-family: "Spartan", sans-serif;
@@ -22,6 +26,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   padding-bottom: .3em;
+  text-align: center;
 }
 
 .home-intro {
