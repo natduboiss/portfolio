@@ -7,6 +7,10 @@
 {% include_relative theme.css %}
 {% pattern_css %}
 
+.home-nav {
+  background-color: #5f758d;
+}
+
 .home-intro {
   max-width: 30em;
   margin: 0 auto;
