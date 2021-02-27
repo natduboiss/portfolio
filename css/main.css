@@ -20,6 +20,15 @@
   text-align: center;
 }
 
+.navi {
+  margin: 0;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
 .nav-links {
   color: #fff;
   font-family: "Spartan", sans-serif;
