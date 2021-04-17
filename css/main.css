@@ -27,7 +27,7 @@ nav li {
 }
 
 .nav-links {
-  color: #fff;
+  color: #253346;
   font-family: "Spartan", sans-serif;
   text-decoration: none;
   text-transform: uppercase;
@@ -38,11 +38,6 @@ nav li {
   max-width: 30em;
   margin: 0 auto;
   font-family: "Lora", serif;
-}
-
-.masthead {
-  background: #5f758d url("../images/pic-bg.svg") no-repeat center center;
-  background-size: cover;
 }
 
 .project-card {
@@ -80,7 +75,7 @@ nav li {
 }
 
 .annualr-background {
-  background-color: #eee2f0;
+  background-color: #718ca5;
 }
 
 .rescues-background {
