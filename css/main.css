@@ -40,6 +40,11 @@ nav li {
   font-family: "Lora", serif;
 }
 
+.masthead {
+  background: #5f758d url("../images/pic-bg.svg") no-repeat center center;
+  background-size: cover;
+}
+
 .project-card {
   width: 100%;
   margin-bottom: 1em;
