@@ -34,6 +34,14 @@ nav li {
   letter-spacing: 3px;
 }
 
+.nav-links-light {
+  color: #fff;
+  font-family: "Spartan", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
 .home-intro {
   max-width: 30em;
   margin: 0 auto;
@@ -228,7 +236,7 @@ p {
 }
 
 .next-project-infog {
-  background-color: #eee2f0;
+  background-color: #718ca5;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -274,7 +282,7 @@ p {
 }
 
 .case-study-ar {
-  background-color: #eee2f0;
+  background-color: #718ca5;
 }
 
 .case-study-bean {
