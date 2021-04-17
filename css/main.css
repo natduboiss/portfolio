@@ -194,7 +194,8 @@ p {
 }
 
 .next-project-smiles {
-  background-color: #fff3c9;
+  background-color: #718ca5;
+  color: #fff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -246,21 +247,21 @@ p {
 
 .next-project-infog:hover {
   background-color: #d0ecff;
-  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
 }
 
 .next-project-bean {
-  background-color: #daf0bc;
+  background-color: #d0ecff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
 }
 
 .next-project-bean:hover {
-  background-color: #fff3c9;
+  background-color: #718ca5;
+  color: #fff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
