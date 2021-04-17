@@ -215,7 +215,8 @@ p {
 }
 
 .next-project-ar:hover {
-  background-color: #eee2f0;
+  background-color: #718ca5;
+  color: #fff;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
