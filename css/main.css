@@ -45,6 +45,11 @@ nav li {
   background-size: cover;
 }
 
+.wrap-box {
+  background-color: #fff;
+
+}
+
 .project-card {
   width: 100%;
   margin-bottom: 1em;
