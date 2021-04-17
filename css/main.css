@@ -243,7 +243,8 @@ p {
 }
 
 .next-project-infog:hover {
-  background-color: #daf0bc;
+  background-color: #d0ecff;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
