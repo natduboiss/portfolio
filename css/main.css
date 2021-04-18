@@ -203,6 +203,7 @@ p {
 
 .next-project-smiles:hover {
   background-color: #d0ecff;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -210,7 +211,7 @@ p {
 
 .next-project-ar {
   background-color: #d0ecff;
-  color: #718ca5;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -226,7 +227,7 @@ p {
 
 .next-project-dog {
   background-color: #d0ecff;
-  color: #718ca5;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -234,7 +235,7 @@ p {
 
 .next-project-dog:hover {
   background-color: #d0ecff;
-  color: #718ca5;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -250,7 +251,7 @@ p {
 
 .next-project-infog:hover {
   background-color: #d0ecff;
-  color: #718ca5;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
@@ -258,7 +259,7 @@ p {
 
 .next-project-bean {
   background-color: #d0ecff;
-  color: #718ca5;
+  color: #253346;
   background-size: 200% 100%;
   background-position: left bottom;
   transition: all .3s ease-in-out;
